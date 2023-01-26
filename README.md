@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Biomedicine/ Applied probability and statistics student at University of Zürich.
+M.Sc. computer science @ ZHAW Centre for Artificial Intelligence.
 
 My areas of interest are:
 
-- Biomedicine
 - Machine Learning
 - Data Science
-- Web Development
+- Biomedicine
+
 
 
